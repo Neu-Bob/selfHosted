@@ -111,7 +111,7 @@ This is a nice way of saying, "Not all Pleroma users are neo-Nazis, but in the e
 
 - Pixelfed
 
-Pixelfed is an Instagram clone. It allows storing photos and publishing them for others to see, like, share, and comment on. I am considering deploying Pixelfed since I am only using the automatic photo backup feature of NextCloud at this time. I would much rather use an application like this for storing, organizing, and sharing photos vs. a collaboration suite intended for use in an office setting.
+Pixelfed is an Instagram clone. It allows storing photos and publishing them for others to see, like, share, and comment on. I am considering deploying Pixelfed since I am only using the automatic photo backup feature of NextCloud at this time. I would much rather use an application like this for storing, organizing, and sharing photos vs. a collaboration suite intended for use in an office setting. NextCloud does not current federate using ActivityPub, but the developers are working towards making that happen. If that happens, I may not need to move my automatic photo backup function to Pixelfed, since I rarely share photos with anyone anyway.
 
 - Lemmy
 
