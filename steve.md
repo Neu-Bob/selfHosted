@@ -10,7 +10,7 @@ Ansible is a "declarative" configuration manager. You use YAML to describe the s
 ### Networkwide Ad and Malware Blocking
 - pi-hole
  
-Pi-hole is a caching DNS server that, when servicing DNS lookups requested by other devices, will ignore lookups for domains that are known to offer ads and malware. This help to present a largely ad-free experience for all devices on your network. Note that this does not eliminate pre-roll ads from YouTube. There is no known way to avoid them without paying for YouTube Premium or downloading videos with youtube-dl.
+Pi-hole is a caching DNS server that, when servicing DNS lookups requested by other devices, will ignore lookups for domains that are known to offer ads and malware. This establishes a largely ad-free experience for all devices on your network. Note that this does not eliminate pre-roll ads from YouTube. There is no known way to avoid them without paying for YouTube Premium or downloading videos with youtube-dl.
 
 ### Monitoring and Availability
 - Uptime Kuma
