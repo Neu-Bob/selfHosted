@@ -15,7 +15,7 @@ plex media server
 tautulli | Plex Media Server management
 
 Network / Homelab management
-
+uptime kuma
 adguard 
 
 Personal Stuff
