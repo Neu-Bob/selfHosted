@@ -25,7 +25,7 @@ Pi-hole is a caching DNS server that, when servicing DNS lookups requested by ot
 ### File Services
 - OpenMedia Vault
 
-OpenMedia Vault (OMV) is one of several popular Linux distributions designed to convert any computer capable of running Linux into something resembling a much more expensive Network Attached Storage (NAS). OMV makes storing, sharing, and backup of data easy, and allows for easy integration with Docker for running low-impact containers close to the shared storage. Commonly used with Raspberry Pi computers installed in custom computer cases designed to hold  a Pi and several hard disk drives.
+OpenMedia Vault (OMV) is one of several popular Linux distributions designed to convert any computer capable of running Linux into something resembling a much more expensive Network Attached Storage (NAS). OMV makes storing, sharing, and backup of data easy, and allows for easy integration with Docker for running low-impact containers close to the shared storage. Commonly used with Raspberry Pi computers installed in custom computer cases designed to hold  a Pi and one or more hard disk drives.
 
 ### Password Manager
 - VaultWarden
