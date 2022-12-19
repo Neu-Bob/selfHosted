@@ -97,7 +97,7 @@ Mastodon offers ActivityPub-based federation of "microblogging". Microblogging i
 
 - Bookwyrm (in progress)
 
-Bookwyrm provides an ActivityPub-based alternative to Goodreads by Amazon. Goodreads (and therefore Bookwyrm) enables people to share lists of books, reading targets, book reviews, and other comments that book lovers like to leave for one another.
+Bookwyrm provides an ActivityPub-based alternative to Goodreads by Amazon. Bookwyrm (just like Goodreads) enables people to share lists of books, reading targets, book reviews, and other comments that book lovers like to leave for one another.
 
 ### Other ActivityPub applications
 
