@@ -37,7 +37,7 @@ VaultWarden (ex BitWarden RS) is a free highly-capable password manager that com
 ### News
 - FreshRSS
  
-FreshRSS is a self-hosted Google Reader clone but without all the tracking. It supports multiple, independently managed logins per server and replicates the configured RSS feeds to local disk for presentation. Articles that are selected for browsing (usually the first paragraph, sometimes the entire article) are not reported back to the original source, thus protecting your privacy. Clicking on an article title will load the article from the original page, thus eliminating any privacy protections you had up to that point.
+FreshRSS is a self-hosted Google Reader clone but without all the tracking. It supports multiple, independently managed logins per server and replicates the configured RSS feeds to local disk for presentation. Articles that are selected for browsing (usually the first paragraph, sometimes the entire article) are not reported back to the original source, thus protecting your privacy. However, clicking on an article title will load the article from the original page, thus eliminating any privacy protections you had up to that point.
 
 ### eBooks
 - Calibre eBook manager
