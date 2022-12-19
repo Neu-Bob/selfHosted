@@ -95,6 +95,12 @@ At the core of all social networking is the act of "publishing" updates about yo
 
 Mastodon offers ActivityPub-based federation of "microblogging". Microblogging is a form of writing using short blurbs to make your point. There are many microblogging platforms, but the most popular one by far worldwide is Twitter.
 
+- Pleroma
+
+Pleroma is a scaled-down version of Mastodon, designed to offer federated microblogging via ActivityPub for one person vs. the tens of thousands commonly seen on the largest Mastodon instances. I do not have Pleroma currently installed, but I have in the past and, based on the resource consumption I'm experiencing with Mastodon, may return to using it in the future. Unfortunately, the tool may be _too_ easy to deploy, and many people who were banned from the likes of Twitter and Facebook for the content they posted have found their way to Pleroma. This causes some people to have predetermined notion of what kind of person you are based on the tool you're using and may treat you in accordance with those predispotions before you may have earned being treated in that manner. Now that the population of the Fediverse has ballooned from 150,000 to over 8 million users in just six weeks, there's an opportunity to sway public opinion about the type of people who tend to use Pleroma.
+
+This is a nice way of saying, "Not all neo-nazis use Pleroma (but most of them did in the early days)."
+
 - Bookwyrm (in progress)
 
 Bookwyrm provides an ActivityPub-based alternative to Goodreads by Amazon. Goodreads (and therefore Bookwyrm) enables people to share lists of books, reading targets, book reviews, and other comments that book lovers like to leave for one another.
