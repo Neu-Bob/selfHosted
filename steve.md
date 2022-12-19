@@ -32,7 +32,7 @@ OpenMedia Vault (OMV) is one of several popular Linux distributions designed to 
 
 VaultWarden (ex BitWarden RS) is a free highly-capable password manager that competes strongly against similar alternatives that charge monthly fees for use. As VaultWarden consists of the Open Source components released with BitWarden, all BitWarden clients are compatible with VaultWarden servers.
 
-## Media Consumption
+## Media
 
 ### News
 - FreshRSS
