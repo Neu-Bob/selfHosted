@@ -85,7 +85,7 @@ NextCloud is an Open Source alternative to Lotus Notes or Microsft Office and Sh
 ### Decentralized Instant Messaging
 - Matrix
 
-Matrix is a decentralized Instant Messaging tool that provides fully encrypted person-to-person chat and "rooms" where multiple users can join to have a secure text, audio, or video chat session. The functionality is equivalent to several similar tools including IRC, Discord, SMS text messaging, Apple Facetime, and Google Duo and Meet, except fully encrypted end-to-end without trusting any third parties using closed source software and Cloud servers.
+Matrix is a decentralized Instant Messaging tool that provides fully encrypted person-to-person chat and "rooms" where multiple users can join to have a secure text, audio, or video chat session. The functionality is equivalent to several similar tools including IRC, Discord, SMS text messaging, Apple Facetime, and Google Duo and Meet, except fully encrypted end-to-end without trusting any third parties using closed source software and Cloud servers. Sure, you can use a publicly available server hosted by the Matrix Foundation at matrix.org, but that is highly centralized and defeats the purpose of decentralization.
 
 ### Federated Social Media (aka Fediverse or ActivityPub)
 
