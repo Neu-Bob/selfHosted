@@ -93,7 +93,7 @@ At the core of all social networking is the act of "publishing" updates about yo
 
 - Mastodon
 
-Mastodon offers ActivityPub-based federation of "microblogging". Microblogging is a form of writing using short blurbs to make your point. There are many microblogging platforms, but the most popular one by far worldwide is Twitter.
+Mastodon offers ActivityPub-based federation of "microblogging". Microblogging is a form of writing using short blurbs to make your point. There are many microblogging platforms, but the most popular one by far worldwide is Twitter. As mentioned above, Mastodon also allows you to view, like, share, and comment on posts made by Fediverse users you follow even if they are posted using a different base application. Like being able to interact with someone's Instagram post from Twitter. Not a link to someone's Instagram post -- the ACTUAL Instagram post.
 
 - Bookwyrm (in progress)
 
