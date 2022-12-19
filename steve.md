@@ -103,11 +103,11 @@ Bookwyrm provides an ActivityPub-based alternative to Goodreads by Amazon. Goodr
 
 There are other ActivityPub-enabled social media applications I am considering installing, but have not yet started the process.
 
-- Pixelfed (being considered)
+- Pixelfed
 
 Pixelfed is an Instagram clone. It allows storing photos and publishing them for others to see, like, share, and comment on. I am considering deploying Pixelfed since I am only using the automatic photo backup feature of NextCloud at this time. I would much rather use an application designed for storing, organizing, and sharing photos.
 
-- Lemmy (being considered)
+- Lemmy
 
 Lemmy is a Reddit clone. I don't need to find an alternative to Reddit right now, but my general interest in ActivityPub and the Fediverse is giving me more than a passing interest in Lemmy. A common complaint I've heard about Lemmy is the extremely low population count, making the Lemmy experience far less useful and effective than Mastodon (which recently passed 8 million users).
 
