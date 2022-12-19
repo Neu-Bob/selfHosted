@@ -105,7 +105,7 @@ There are other ActivityPub-enabled social media applications I am considering i
 
 - Pixelfed
 
-Pixelfed is an Instagram clone. It allows storing photos and publishing them for others to see, like, share, and comment on. I am considering deploying Pixelfed since I am only using the automatic photo backup feature of NextCloud at this time. I would much rather use an application designed for storing, organizing, and sharing photos.
+Pixelfed is an Instagram clone. It allows storing photos and publishing them for others to see, like, share, and comment on. I am considering deploying Pixelfed since I am only using the automatic photo backup feature of NextCloud at this time. I would much rather use an application like this for storing, organizing, and sharing photos vs. a collaboration suite intended for use in an office setting.
 
 - Lemmy
 
