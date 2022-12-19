@@ -3,22 +3,32 @@
 ### Infrastructure Management
 - Ansible
 
-Ansible is
+Ansible is a "declarative" configuration manager. You use YAML to describe the state that local or remote systems or configuration files should be in. You periodically run the tool to validate that "everything is as it should be" and take corrective actions if they are not.
 
 ### Networkwide Ad and Malware Blocking
-- pi-hole (physical Raspberry Pi plus every host running docker-compose)
+- pi-hole
+ 
+Pi-hole is a caching DNS server that, when servicing DNS lookups requested by other devices, will ignore lookups for domains that are known to offer ads and malware.
 
 ### Monitoring and Availability
 - Uptime Kuma
 
+Uptime Kuma is an uptime or availability dashboard that offers at-a-glance updates of the current availability of critical resources as defined by you. The tool is also capable of sending down/up alerts via email.
+
 ### Workflow automation
 - NodeRED
 
+Node-RED is a no-code scripting environment that allows drag-and-drop configuration of high-level capabilities and functions.
+
 ### File Services
-- OpenMedia Vault (with built-in docker and docker-compose support)
+- OpenMedia Vault
+
+OpenMedia Vault (OMV) is one of several popular Linux distributions designed to convert any computer capable of running Linux into something resembling a much more expensive Network Attached Storage (NAS). OMV makes storing, sharing, and backup of data easy, and allows for easy integration with Docker for running low-impact containers close to the shared storage. Commonly used with Raspberry Pi computers installed in custom computer cases designed to hold  a Pi and several hard disk drives.
 
 ### Password Manager
 - VaultWarden (formerly BitWarden RS)
+
+VaultWarden (ex BitWarden RS) is a highly-capable password manager that competes strongly against similar alternatives that charge monthly fees for use. As VaultWarden consists of the Open Source components released with BitWarden, all BitWarden clients are compatible with VaultWarden servers.
 
 ## Media Consumption
 
