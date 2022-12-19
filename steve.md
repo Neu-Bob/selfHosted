@@ -45,19 +45,19 @@ FreshRSS is a self-hosted Google Reader clone but without all the tracking. It s
 Calibre and Calbire Web is akin to Plex for ebooks. It is a comprehensive ebook library management tool. It not only stores over a dozen data fields per entry, it also offers format conversion, automatic downloading of daily headlines from various sources, and a web-based online reader or download tool.
 
 ### Multimedia Library Management
-- servarr
+- Servarr
 
 Servarr is a generic term for a series of tools and applications that together offer automated downloading and organization of media of all different types. All the associated apps (the `arrs`) need an external app that helps the managing app identify what is available for download. The supporting tool is called an indexer, and there are different indexers that specialize in each type of download network. See https://wiki.servarr.com/ for more information about the commonly hosted applications.
 
-- radarr
+- Radarr
 
 Radarr is the movie locator and manager component of the Servarr stack. Radarr is able to use an indexer to find movies available via numerous services, including BitTorrent and USENET. If a movie has been marked as being "in the library" but not yet downloaded, radarr is capable of searching indexers for the title until a suitable download can be found. You may also toggle the continuous searching on and off if you wish to wait a while for a good copy of a desired film to become available. Once a copy that matches the selection criteria has been found, Radarr sends a download request to the download tool, described below.
 
-- sonarr - tv episode library manager
+- Sonarr
 
 Sonarr is the TV show and episode locator and manager component of the Servarr stack. It works the same way as radarr in terms of searching indexers for missing episodes and seasons of TV shows and passing the download requests to the download tool when a suitable episoe appears to have been found.
 
-- spotweb
+- Spotweb
 
 Spotweb decrypts encrypted data that has been posted to USENET for the purpose of locating any multimedia that has also been posted to USENET. It bootstraps itself, reading USENET for the purpose of determining what has been posted to USENET and is ready for download. Spotweb updates its database of what is available for download hourly, and continuosly replies to search requests arriving from the arr apps. Spotweb also offers its own minimalistic web interface that can be used to locate media and trigger downloads without involving any of the arr apps in the process.
 
