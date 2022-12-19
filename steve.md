@@ -26,9 +26,9 @@ Node-RED is a no-code scripting environment that allows drag-and-drop configurat
 OpenMedia Vault (OMV) is one of several popular Linux distributions designed to convert any computer capable of running Linux into something resembling a much more expensive Network Attached Storage (NAS). OMV makes storing, sharing, and backup of data easy, and allows for easy integration with Docker for running low-impact containers close to the shared storage. Commonly used with Raspberry Pi computers installed in custom computer cases designed to hold  a Pi and several hard disk drives.
 
 ### Password Manager
-- VaultWarden (formerly BitWarden RS)
+- VaultWarden
 
-VaultWarden (ex BitWarden RS) is a highly-capable password manager that competes strongly against similar alternatives that charge monthly fees for use. As VaultWarden consists of the Open Source components released with BitWarden, all BitWarden clients are compatible with VaultWarden servers.
+VaultWarden (ex BitWarden RS) is a free highly-capable password manager that competes strongly against similar alternatives that charge monthly fees for use. As VaultWarden consists of the Open Source components released with BitWarden, all BitWarden clients are compatible with VaultWarden servers.
 
 ## Media Consumption
 
