@@ -2,16 +2,6 @@
 
 ## Infrastructure Services 
 
-### Infrastructure Management
-- Ansible
-
-Ansible is a "declarative" configuration manager. You use YAML to describe the state that local or remote systems or configuration files should be in. You periodically run the tool to validate that "everything is as it should be" and take corrective actions if they are not.
-
-### Networkwide Ad and Malware Blocking
-- pi-hole
- 
-Pi-hole is a caching DNS server that, when servicing DNS lookups requested by other devices, will ignore lookups for domains that are known to offer ads and malware. This establishes a largely ad-free experience for all devices on your network. Note that this does not eliminate pre-roll ads from YouTube. There is no known way to avoid them without paying for YouTube Premium or downloading videos with youtube-dl.
-
 ### Monitoring and Availability
 - Uptime Kuma
 
@@ -21,6 +11,16 @@ Uptime Kuma is an uptime or availability dashboard that offers at-a-glance updat
 - NodeRED
 
 Node-RED is a no-code scripting environment that allows drag-and-drop configuration of high-level capabilities and functions.
+
+### Infrastructure Management
+- Ansible
+
+Ansible is a "declarative" configuration manager. You use YAML to describe the state that local or remote systems or configuration files should be in. You periodically run the tool to validate that "everything is as it should be" and take corrective actions if they are not.
+
+### Networkwide Ad and Malware Blocking
+- pi-hole
+ 
+Pi-hole is a caching DNS server that, when servicing DNS lookups requested by other devices, will ignore lookups for domains that are known to offer ads and malware. This establishes a largely ad-free experience for all devices on your network. Note that this does not eliminate pre-roll ads from YouTube. There is no known way to avoid them without paying for YouTube Premium or downloading videos with youtube-dl.
 
 ### File Services
 - OpenMedia Vault
