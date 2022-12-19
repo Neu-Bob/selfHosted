@@ -1,4 +1,4 @@
-* Networkwide Ad and Malware Blocking
+### Networkwide Ad and Malware Blocking
 - pi-hole (physical Raspberry Pi plus every host running docker-compose)
 
 * Infrastructure Monitoring
